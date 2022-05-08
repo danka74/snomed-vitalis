@@ -1,0 +1,8 @@
+{
+  "/snowstorm/snomed-ct/*": {
+    "target": "https://browser.ihtsdotools.org/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
